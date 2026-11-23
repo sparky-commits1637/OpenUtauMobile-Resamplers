@@ -1,4 +1,16 @@
 {
   "schema": 1,
-  "resamplers": []
+  "resamplers": [
+    {
+      "id": "moresampler2",
+      "name": "moresampler2",
+      "version": "1.0.0",
+      "files": [
+        {
+          "url": "moresampler2/moresampler2.sh",
+          "sha256": "f3b05612607ff614910ca815ebf701c109cf0013aaf463cfd5fe2f64f5faf2eb"
+        }
+      ]
+    }
+  ]
 }
