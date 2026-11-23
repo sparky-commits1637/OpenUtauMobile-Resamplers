@@ -1,5 +1,7 @@
 # OpenUtauMobile-Resamplers
 
+something nobody is allowed to touch...okay????
+
 The app reads `index.json` and `index.json.sig` from this repo (main branch).
 It only accepts a catalog signed with YOUR private key, and every file's sha256 must match.
 
